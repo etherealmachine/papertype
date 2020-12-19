@@ -203,13 +203,13 @@ export default function App() {
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
               <h1>Step 1</h1>
               <h2>Upload Card JSON</h2>
-              <div>Example: </div>
+              <div><a href="https://raw.githubusercontent.com/etherealmachine/papertype/master/src/examples/scurvy_and_rum.json">Example</a></div>
               <input className="form-control-file" type="file" ref={cardDefUploadRef} onChange={onCardDefUpload} accept="application/json" />
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
               <h1>Step 2 (Optional)</h1>
               <h2>Upload Card CSS</h2>
-              <div>Example: </div>
+              <div><a href="https://raw.githubusercontent.com/etherealmachine/papertype/master/src/examples/scurvy_and_rum.css">Example</a></div>
               <input className="form-control-file" type="file" ref={cssUploadRef} onChange={onCssUpload} accept="text/css" />
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
