@@ -1,0 +1,118 @@
+{
+  "Silver": {},
+  "Gold": {},
+  "Roundshot": {
+    "flavor": "3 pounds of shot can tear a hole clean through most hulls",
+    "rules": [
+      "Destroy a treasure card on a player’s ship",
+      "Steal a treasure card from a player’s ship"
+    ]
+  },
+  "Chainshot": {
+    "flavor": "A well-aimed chain shot can rip the mainsail to shreds",
+    "rules": [
+      "Destroy a treasure card on a player’s ship",
+      "Steal a treasure card from a player’s ship"
+    ]
+  },
+  "Grapeshot": {
+    "flavor": "Every crew member fears getting eviscerated by a handful of shrapnel",
+    "rules": [
+      "Destroy a treasure card on a player’s ship",
+      "Steal a treasure card from a player’s ship"
+    ]
+  },
+  "Square Sails": {
+    "rules": [
+      "Avoid destroying a treasure card when shot with chainshot",
+      "Discard your hand to change the island your ship is on after the raid has started"
+    ]
+  },
+  "Triangular Sails": {
+    "rules": [
+      "Avoid destroying a treasure card when shot with chainshot",
+      "Discard this card to draw 2 cards"
+    ]
+  },
+  "Mainmast": {
+    "rules": [
+      "Avoid destroying a treasure card when shot with roundshot",
+      "????"
+    ]
+  },
+  "Mizzenmast": {
+    "rules": [
+      "Avoid destroying a treasure card when shot with roundshot",
+      "????"
+    ]
+  },
+  "First Mate": {
+    "rules": [
+      "Avoid destroying a treasure card when shot with grapeshot",
+      "????"
+    ]
+  },
+  "Quartermaster": {
+    "rules": [
+      "Avoid destroying a treasure card when shot with grapeshot",
+      "????"
+    ]
+  },
+  "Pilot": {
+    "rules": [
+      "Avoid another player stealing a treasure card",
+      "Deflect a shot to another player"
+    ]
+  },
+  "Gunner": {
+    "rules": [
+      "View another player’s face down card"
+    ]
+  },
+  "Carpenter": {
+    "rules": [
+      "Increase your hand size by 1"
+    ]
+  },
+  "Cook": {
+    "rules": [
+      "Trash this card to draw 2 cards"
+    ]
+  },
+  "Storm": {},
+  "Copper Paint": {
+    "rules": [
+      "Trash a card from your hand to deflect a shot"
+    ]
+  },
+  "Spyglass": {
+    "rules": [
+      "View the top 3 cards of your deck, order them, then place them back on top of the deck"
+    ]
+  },
+  "Cargo Hold": {
+    "rules": [
+      "Protect a treasure card from a single shot"
+    ]
+  },
+  "Armored Hold": {
+    "rules": [
+      "Protect treasure cards from two shots"
+    ]
+  },
+  "Buried Treasure": {
+    "rules": [
+      "Build a treasure chest to place your treasure in"
+    ]
+  },
+  "Portolan Chart": {
+    "rules": [
+      "Build a private island"
+    ]
+  },
+  "Treasure Map": {
+    "rules": [
+      "Get access to the private island"
+    ]
+  }
+}

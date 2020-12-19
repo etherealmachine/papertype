@@ -1,0 +1,49 @@
+.card-back {
+  font-family: "TreasureMapDeadhand";
+  font-size: 48px;
+  border: 2px solid #5f5f5f;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  bottom: 15px;
+  right: 15px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-back::after {
+  content: "Scurvy & Rum";
+  text-align: center;
+  width: 112px;
+}
+
+.title {
+  font-family: "TreasureMap";
+  display: flex;
+  font-size: 18px;
+  background: #dfdfdf;
+  color: black;
+  margin: 0;
+  padding: 3px 5px 3px 5px;
+}
+
+.flavor {
+  font-size: 12px;
+  font-style: italic;
+  padding: 4px 5px 4px 4px;
+}
+
+.rules {
+  font-size: 14px;
+  margin: auto 5px 5px 5px;
+  height: 40%;
+  border: 3px solid black;
+  padding: 4px;
+}
+
+.rule::before {
+  content: '•';
+}
